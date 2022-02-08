@@ -12,7 +12,11 @@ node_modules/
 # production
 /build
 
+
 # misc
+jjj.env
+j.env
+jj.env
 config.env
 .DS_Store
 .env.local
